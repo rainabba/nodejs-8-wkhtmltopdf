@@ -19,6 +19,6 @@ RUN apt-get update -y \
 RUN apt-get install -y vim \
   && mkdir -p /tmp/src \
   && cd /tmp/src \
-  && wget -O wkhtmltox-0.12.4_linux-generic-amd64.tar.xz https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.4/wkhtmltox-0.12.4_linux-generic-amd64.tar.xz \
-  && tar xf wkhtmltox-0.12.4_linux-generic-amd64.tar.xz \
+  && wget -O wkhtmltox-0.12.3_linux-generic-amd64.tar.xz https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.3/wkhtmltox-0.12.3_linux-generic-amd64.tar.xz \
+  && tar xf wkhtmltox-0.12.3_linux-generic-amd64.tar.xz \
   && cp -R wkhtmltox/* /usr/local/;
