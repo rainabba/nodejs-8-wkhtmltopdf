@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-8-wkhtmltopdf",
+  "version": "1.0.0",
+  "description": "Wkhtml2PDF (https://wkhtmltopdf.org/) installed in a node.js 8.x.x image (see tags for versions)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rainabba/nodejs-8-wkhtmltopdf.git"
+  },
+  "keywords": [
+    "node.js",
+    "wkhtml2pdf",
+    "pdf"
+  ],
+  "author": "Michael Richardson <rainabba@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rainabba/nodejs-8-wkhtmltopdf/issues"
+  },
+  "homepage": "https://github.com/rainabba/nodejs-8-wkhtmltopdf#readme"
+}
