@@ -1,6 +1,7 @@
 {
   "name": "nodejs-8-wkhtmltopdf",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "previousVersion": "1.0.0",
   "description": "Wkhtml2PDF (https://wkhtmltopdf.org/) installed in a node.js 8.x.x image (see tags for versions)",
   "main": "index.js",
   "scripts": {
