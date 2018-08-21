@@ -1,4 +1,4 @@
-## 1.0.1 (  )
+## 1.0.1 ( 2018-08-01  )
 
 Change:
 	- Add Yarn to container
