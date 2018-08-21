@@ -1,8 +1,9 @@
-## 1.0.1 ( 2018-08-01  )
+## 1.0.1 ( 2018-08-21 )
 
 Change:
 	- Add Yarn to container
 	- Cleanup Dockerfile line continuation and RUN calls
+	- Add publish.sh script for dockerhub
 
 ## 1.0.0 ( 2018-07-11 )
 
