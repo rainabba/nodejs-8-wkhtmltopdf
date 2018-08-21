@@ -3,6 +3,7 @@
 Change:
 	- Add Yarn to container
 	- Cleanup Dockerfile line continuation and RUN calls
+	- Add publish.sh script for dockerhub
 
 ## 1.0.0 ( 2018-07-11 )
 
